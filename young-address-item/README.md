@@ -1,4 +1,6 @@
-- 使用示例
+# 使用说明
+
+- 依赖/common/common.less
 
 ```js
 friendsList:[{
