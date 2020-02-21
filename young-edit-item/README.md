@@ -1,4 +1,7 @@
-# 使用示例
+# 使用说明
+
+- 依赖/common/common.less
+- 依赖/static/img/arrow-right.png
 
 ## 属性
 
